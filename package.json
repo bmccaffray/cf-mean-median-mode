@@ -1,0 +1,19 @@
+{
+  "name": "mean-median-mode",
+  "version": "0.0.0",
+  "description": "number calculations for mean, median & mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmccaffray/mean-median-mode.git"
+  },
+  "author": "brett mccaffray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmccaffray/mean-median-mode/issues"
+  },
+  "homepage": "https://github.com/bmccaffray/mean-median-mode"
+}
